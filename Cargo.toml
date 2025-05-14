@@ -1,6 +1,8 @@
 [package]
 name = "wordle-solver"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 
 [dependencies]
+arrayvec = "0"
+rand = "0.9"
